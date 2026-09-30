@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenounceBeasts.API", "DenounceBeasts.API\DenounceBeasts.API.csproj", "{267FE626-CFE7-44E8-9E61-3CA1C859E3B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267FE626-CFE7-44E8-9E61-3CA1C859E3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267FE626-CFE7-44E8-9E61-3CA1C859E3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267FE626-CFE7-44E8-9E61-3CA1C859E3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267FE626-CFE7-44E8-9E61-3CA1C859E3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {454DC020-21D2-47DC-8B1D-2FC133EED74E}
+	EndGlobalSection
+EndGlobal
